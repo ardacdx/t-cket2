@@ -1,4 +1,5 @@
-require()
+require(`dotenv`)//env tanimliyoruz
+
 
 module.exports = {
     dsc: {
@@ -8,5 +9,4 @@ module.exports = {
     app: {
         prefix: '!'
     }
- TOKEN=MTA1ODgzMTYwMDg5NDM2NTgyNw.GQXMGZ.cXgNlz7iF1B81sUW77RVaQAVX6CRquwwgYdWzM
 };
